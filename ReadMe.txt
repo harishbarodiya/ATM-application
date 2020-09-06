@@ -1,0 +1,1 @@
+Please import the databse file db_acc in your mysql database before run the project.
